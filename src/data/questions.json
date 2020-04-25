@@ -1,90 +1,369 @@
 [
     {
-        "Id":0,
-        "Subject": "Random Questions",
-        "Score":0,
-        "Questions":
-            [
-                {
-                    "Id":0,
-                    "Question": "How old is the Queen?",
-                    "A": "94",
-                    "B": "90",
-                    "C": "39",
-                    "D": "22",
-                    "Answer": "94"
-                },
-                {
-                    "Id":1,
-                    "Question": "Who is next in line to the Thrown?",
-                    "A": "Charles",
-                    "B": "Harry",
-                    "C": "Kate",
-                    "D": "Megan",
-                    "Answer": "Charles"
-                },
-                {
-                    "Id":2,
-                    "Question": "Which Honda model was released first in the UK?",
-                    "A": "DC5",
-                    "B": "EP3",
-                    "C": "FK2",
-                    "D": "EK9",
-                    "Answer": "EK9"
-                    },
-                    {
-                    "Id":3,
-                    "Question": "Which movie does Skywalker belong to?",
-                    "A": "Charlies Angels",
-                    "B": "Star Wars",
-                    "C": "Hot Fuzz",
-                    "D": "Saving Private Ryan",
-                    "Answer": "Star Wars"
-                    }
-            ]
-    },
-    {
-        "Id":1,
-        "Subject": "Movies",
-        "Score":0,
-        "Questions":
-            [
-                {
-                "Id":0,
-                "Question": "Who played Freddie in Queen?",
-                "A": "Rami Malak",
-                "B": "Stephen Cogen",
-                "C": "Will Smith",
-                "D": "Ben Stiller",
-                "Answer": "Rami Malak"
-                },
-                {
-                "Id":1,
-                "Question": "Which film was first released?",
-                "A": "Bad Boy 2",
-                "B": "Shark Tale",
-                "C": "Independance Day",
-                "D": "Hitch",
-                "Answer": "Independance Day"
-                },
-                {
-                    "Id":2,
-                    "Question": "Who played Luke Skywalker in Star Wars?",
-                    "A": "Mark Hamil",
-                    "B": "Stephen Cogen",
-                    "C": "Hayden Smith",
-                    "D": "Harrison Ford",
-                    "Answer": "Mark Hamil"
-                },
-                {
-                    "Id":3,
-                    "Question": "Which is the first movie in the Star Wars saga?",
-                    "A": "A New Hope",
-                    "B": "The Phantom Menace",
-                    "C": "Rogue One",
-                    "D": "Rise of Skywalker",
-                    "Answer": "The Phantom Menace"
-                }
-            ]
-        }
+        "Id": 0,
+        "Subject": "CBRN",
+        "Score": 0,
+        "Questions": [
+            {
+                "Id": 0,
+                "Question": "A chemical product from plants, animals or synthetically produced that cannot reproduce itself is the correct definition of?",
+                "A": "Chemical agent",
+                "B": "Live agent",
+                "C": "Mustard Gas",
+                "D": "Transmissibility",
+                "E": "Toxin",
+                "Answer": "Live agent"
+            },
+            {
+                "Id": 1,
+                "Question": "A micro organism that is alive and can reproduce” is the correct definition of?",
+                "A": "Transmissibility",
+                "B": "Radiological source",
+                "C": "Biological live agent",
+                "D": "Toxin",
+                "E": "Chemical agent",
+                "Answer": "Biological live agent"
+            },
+            {
+                "Id": 2,
+                "Question": "A nuclear blast causes 2 types of damage to the body.  What are they?",
+                "A": "Direct and Indirect",
+                "B": "Chemical and Radiological",
+                "C": "Mechanical and Electrical",
+                "D": "Acute and Incidental",
+                "E": "Burn and Blister",
+                "Answer": "Direct and Indirect"
+            },
+            {
+                "Id": 3,
+                "Question": "Aerosol Spray would be the most effective means to deliver a Biological agent, which is another?",
+                "A": "Dirty Bomb",
+                "B": "Direct addition to water supply",
+                "C": "Multi launch rocket",
+                "D": "Mortar",
+                "E": "Postal system",
+                "Answer": "Direct addition to water supply"
+            },
+            {
+                "Id": 4,
+                "Question": "All CBRN incidents are accidental?",
+                "A": "TRUE",
+                "B": "FALSE",
+                "C": "",
+                "D": "",
+                "E": "",
+                "Answer": "FALSE"
+            },
+            {
+                "Id": 5,
+                "Question": "An Endo-atmospheric burst occurs where?",
+                "A": "0-30Km above the Earths surface",
+                "B": "Underground",
+                "C": "On the ground",
+                "D": "Above the ground by 30km or more",
+                "E": "Underwater",
+                "Answer": "0-30Km above the Earths surface"
+            },
+            {
+                "Id": 5,
+                "Question": "At what height above the ground is a nuclear explosion an Exo-Atmospheric Burst?",
+                "A": "When the fireball is contained underwater",
+                "B": "When the fireball just touches the surface of the ground or water",
+                "C": "Within the troposphere",
+                "D": "In excess of 3km above the earth's surface",
+                "E": "In excess of 30km above the earth's surface",
+                "Answer": "In excess of 30km above the earth's surface"
+            },
+            {
+                "Id": 6,
+                "Question": "Blood agents are classified as?",
+                "A": "Debilitating",
+                "B": "Incapacitating",
+                "C": "Harmful",
+                "D": "Lethal",
+                "E": "Dangerous",
+                "Answer": "Lethal"
+            },
+            {
+                "Id": 7,
+                "Question": "CBRN hazards will only come from Industrial complexes?",
+                "A": "TRUE",
+                "B": "FALSE",
+                "C": "",
+                "D": "",
+                "E": "",
+                "Answer": "FALSE"
+            },
+            {
+                "Id": 8,
+                "Question": "Chemical agents are classified into three different headings, Damaging and Incapacitating are two, what is the third?",
+                "A": "Lethal",
+                "B": "Debilitated",
+                "C": "Deadly",
+                "D": "Fatal",
+                "E": "Dangerous",
+                "Answer": "Lethal"
+            },
+            {
+                "Id": 9,
+                "Question": "Chemical agents are classified into three different headings, Lethal and damaging are two, what is the third?",
+                "A": "Debilitated",
+                "B": "Injured",
+                "C": "Incapacitating",
+                "D": "Incapable",
+                "E": "Death",
+                "Answer": "Incapacitating"
+            },
+            {
+                "Id": 10,
+                "Question": "Chemical agents are classified into three different headings, Lethal and Incapacitating are two, what is the third?",
+                "A": "Impair",
+                "B": "Harmful",
+                "C": "Damaging",
+                "D": "Disfigure",
+                "E": "Deadly",
+                "Answer": "Damaging"
+            },
+            {
+                "Id": 11,
+                "Question": "Choking agents are classified as? ",
+                "A": "Lethal",
+                "B": "Dangerous",
+                "C": "Incapacitating",
+                "D": "Damaging",
+                "E": "Harmful",
+                "Answer": "Lethal"
+            },
+            {
+                "Id": 12,
+                "Question": "Give an example of a Nerve agent?",
+                "A": "VX",
+                "B": "Sulphur Mustard",
+                "C": "Phosgene Oxime",
+                "D": "Hydrogen Cyanide",
+                "E": "Phosgene",
+                "Answer": "Hydrogen Cyanide"
+            },
+            {
+                "Id": 13,
+                "Question": "How can a Chemical Agent enter the body?",
+                "A": "Direct, Indirect and Absorbtion",
+                "B": "Absorbtion, Eating and Irritation",
+                "C": "Absorbtion, Radiation and Inhalation",
+                "D": "Ingestion, Transmission and Inhalation",
+                "E": "Inhalation, Absorbtion and Ingestion",
+                "Answer": "Inhalation, Absorbtion and Ingestion"
+            },
+            {
+                "Id": 14,
+                "Question": "Name 2 types of Penetrating Radiation?",
+                "A": "X-Ray and Alpha",
+                "B": "Neutron and Alpha",
+                "C": "Alpha and Gamma",
+                "D": "Gamma and Beta",
+                "E": "Neutron and Gamma",
+                "Answer": "Neutron and Gamma"
+            },
+            {
+                "Id": 15,
+                "Question": "Name 2 types of Radioactive Contaminants?",
+                "A": "Gamma and X-Ray",
+                "B": "Gamma and Neutron",
+                "C": "Beta and X-Ray",
+                "D": "Alpha and Gamma",
+                "E": "Alpha and Beta",
+                "Answer": "Alpha and Beta"
+            },
+            {
+                "Id": 16,
+                "Question": "Nerve agents are classified as?",
+                "A": "Incapaitating",
+                "B": "Harmful",
+                "C": "Lethal",
+                "D": "Dangerous",
+                "E": "Damaging",
+                "Answer": "Incapaitating"
+            },
+            {
+                "Id": 17,
+                "Question": "The ability of a micro Biological micro organism to move from one host to another is known as?",
+                "A": "Live toxins",
+                "B": "Vaccination",
+                "C": "Spreadability",
+                "D": "Transmission",
+                "E": "Transmissibility",
+                "Answer": "Transmissibility"
+            },
+            {
+                "Id": 18,
+                "Question": "The different types of chemical agents are further classified according to the effect they have on the body.  What are Blister Agents classified as a?",
+                "A": "Penetrating agent",
+                "B": "Incapacitating agent",
+                "C": "Lethal agent",
+                "D": "Choking agent",
+                "E": "Damaging agent",
+                "Answer": "Damaging agent"
+            },
+            {
+                "Id": 19,
+                "Question": "The different types of chemical agents are further classified according to the effect they have on the body.  What are Nerve Agents classified as?",
+                "A": "Biological Agents",
+                "B": "Incapacitating Agents",
+                "C": "Damaging Agents",
+                "D": "Lethal Agents",
+                "E": "Liquid Agents",
+                "Answer": "Lethal Agents"
+            },
+            {
+                "Id": 20,
+                "Question": "The early symptoms of nerve agent poisoning are remembered by which 4 letters? ",
+                "A": "T I P F",
+                "B": "H I D E",
+                "C": "N I M S",
+                "D": "R T P D",
+                "E": "H D T E",
+                "Answer": "N I M S"
+            },
+            {
+                "Id": 21,
+                "Question": "The later symptoms of nerve agent poisoning are remembered by which 4 letters?",
+                "A": "C B R N",
+                "B": "H I D E",
+                "C": "N S E W",
+                "D": "D T P D ",
+                "E": "A B B C",
+                "Answer": "A B B C"
+            },
+            {
+                "Id": 22,
+                "Question": "The life threatening symptoms of nerve agent poisoning are remembered by which 4 letters?",
+                "A": "T I P E",
+                "B": "H S R L",
+                "C": "N I M S",
+                "D": "D P R T",
+                "E": "C C C D",
+                "Answer": "N I M S"
+            },
+            {
+                "Id": 23,
+                "Question": "The most effective means of delivery for a mass Biological weapon from the list below would be?",
+                "A": "Mortar",
+                "B": "Poison dart",
+                "C": "High altitude bombing",
+                "D": "Injection",
+                "E": "Aerosol spray",
+                "Answer": "Aerosol spray"
+            },
+            {
+                "Id": 24,
+                "Question": "There are two immediate effects of a Nuclear Explosion which come under the heading of Electromagnetic Phenomena, what are they?",
+                "A": "Fallout and Rainout",
+                "B": "Positive and Negative blast waves",
+                "C": "Atmospheric ionisation and electro magnetic pulse",
+                "D": "Flash and Blast",
+                "E": "Alpha and Beta radiation",
+                "Answer": "Atmospheric ionisation and electro magnetic pulse"
+            },
+            {
+                "Id": 25,
+                "Question": "To help avoid a biological attack, pre-attack measures could include?",
+                "A": "Immunise everyone against all known biological sources",
+                "B": "Buying local produce and isolating water sources",
+                "C": "Start taking NAPS tablets",
+                "D": "Protecting food and water supplies, using approved sources only",
+                "E": "Providing locals with food and hygiene training",
+                "Answer": ""
+            },
+            {
+                "Id": 26,
+                "Question": "What is meant by the term Transmissibility? ",
+                "A": "The ability to pass from plant to animal",
+                "B": "You can vaccinate against it",
+                "C": "The ability to pass from one host to another",
+                "D": "Germs you pass when not washing your hands",
+                "E": "The agent cannot be passed by skin contact",
+                "Answer": "The ability to pass from one host to another"
+            },
+            {
+                "Id": 27,
+                "Question": "What is Residual Radiation made up of? ",
+                "A": "Alpha, Beta and Neutron",
+                "B": "Gamma, Alpha and Beta",
+                "C": "Alpha, Beta and X-ray",
+                "D": "Beta, Gamma and Neutron",
+                "E": "Neutron, Gamma and Alpha",
+                "Answer": "Alpha, Beta and Neutron"
+            },
+            {
+                "Id": 28,
+                "Question": "What type of nuclear burst can lead to ionisation of the atmosphere?",
+                "A": "Surface Burst",
+                "B": "Low Altitude Air Burst",
+                "C": "Exo-Atmospheric Burst",
+                "D": "Sub-water Burst",
+                "E": "Sub-Surface Burst",
+                "Answer": "Exo-Atmospheric Burst"
+            },
+            {
+                "Id": 29,
+                "Question": "Which from the list below is classed as a Biological Toxin?",
+                "A": "Ricin",
+                "B": "CS",
+                "C": "VX",
+                "D": "Mustard Lewisite",
+                "E": "BX",
+                "Answer": "Ricin"
+            },
+            {
+                "Id": 30,
+                "Question": "Which locations would a TIC release be a hazard?",
+                "A": "Shopping Centre",
+                "B": "Chemical Production Facility",
+                "C": "",
+                "D": "",
+                "E": "",
+                "Answer": "Shopping Centre"
+            },
+            {
+                "Id": 31,
+                "Question": "Which of the statements below is the correct definition of a Biological live agent?",
+                "A": "A micro-organism",
+                "B": "A living micro-organism used as a Biological Warfare Agent to cause disease in man, plants or animals or to cause deterioration of materiel",
+                "C": "A Toxin derived from biological sources",
+                "D": "An organism that can reproduce",
+                "E": "A living thing that can spread disease",
+                "Answer": "An organism that can reproduce"
+            },
+            {
+                "Id": 32,
+                "Question": "Which statement is the correct definition of a Non-persistent agent?",
+                "A": "Vapours (or Aerosols) which disperses rapidly after release",
+                "B": "Liquid which continues to present a long term hazard",
+                "C": "Aerosols which remain in the air for days",
+                "D": "When it turns three colour detector paper red",
+                "E": "Vapours which stay in the air for a bit",
+                "Answer": "Vapours (or Aerosols) which disperses rapidly after release"
+            },
+            {
+                "Id": 33,
+                "Question": "Which statement is the correct definition of a Persistent Agent?",
+                "A": "Chlorine gas",
+                "B": "Liquid which continues to present a long term hazard",
+                "C": "When it turns three colour detector paper red",
+                "D": "Vapours or Aerosols which disperses rapidly after release",
+                "E": "Liquid which dries up quickly",
+                "Answer": "Chlorine gas"
+            },
+            {
+                "Id": 34,
+                "Question": "Which, from the list below is the correct definition of a Biological Toxin?",
+                "A": "A chemical product which can reproduce itself",
+                "B": "A chemical product which is alive and causes disease in plants and animals",
+                "C": "VX",
+                "D": "A chemical product from plants, animals or synthetically produced that cannot reproduce itself",
+                "E": "Snake venom",
+                "Answer": "A chemical product from plants, animals or synthetically produced that cannot reproduce itself"
+            }
+        ]
+    }
 ]
