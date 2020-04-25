@@ -22,7 +22,7 @@ export default class EndTestButton extends Component{
         }
     }
 
-    let result = ((score / 3)*100).toString().substr(0,4).replace(".0","") + "%";
+    let result = ((score / 20)*100).toString().substr(0,4).replace(".0","") + "%";
     let date = new Date();
     window.alert("Subject: " + this.state.subject +
     "\n\nDate: " + date.toLocaleDateString() +
